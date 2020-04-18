@@ -1,0 +1,699 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>AIR Air New Zealand Limited (NS) Ordinary Shares - NZX, New Zealand’s Exchange</title>
+  <meta charset="UTF-8">
+  <meta name="description" content="NZX operates New Zealand capital, risk and commodity markets. We provide high quality market information, featuring real time stock quotes, market data, market news and tools to support business decision making"/>
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=0" />
+  <script src="/assets/autotrack-c8650f3a13b3bd088857e40526a7bb1ff908b3cf3ee1b409984a4f3b63a8f626.js"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-2196699-5', 'auto');
+  ga('require', 'linkid');
+  ga('require', 'eventTracker');
+  ga('require', 'outboundLinkTracker');
+  ga('require', 'mediaQueryTracker');
+  ga('set', 'userId', '');
+  ga('send', 'pageview');
+</script>
+
+  <link rel="stylesheet" media="all" href="/assets/google-fonts-099bd1abd35effc6727f5a422fd2bc552ea7e327e19d7ae14d3389925d2f7e35.css" />
+  <link rel="stylesheet" media="all" href="/assets/fontawesome-d0966b080f15d9b9dce9e655f5737d8d9b7d3e6696388f3f2b9e73b8f044aa02.css" />
+  <link rel="stylesheet" media="all" href="/assets/application-d31d224cccf40b17907dcebc140426f9a3f06abec68c77d750eea140ff91d59a.css" />
+
+  <link rel="stylesheet" media="all" href="https://code.highcharts.com/css/annotations/popup.css" />
+
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="+EWyaftchm3HYw7PhGvF6oTRnF86dWw72VtN1K4ChpXnWq+2Q5maSxrouILilJcRI7WeFHYRSz8fgUmuwCKcsA==" />
+
+  <meta name="ejsc-src-path" content="/assets/old_chart/" />
+  <link rel="apple-touch-icon" type="image/png" href="/assets/apple/apple-touch-icon-57x57-b6fa840a76832c5526aee6008e2acbfef6b536d3c681cf6427dcbac470e7b57b.png" sizes="57x57" />
+<link rel="apple-touch-icon" type="image/png" href="/assets/apple/apple-touch-icon-60x60-a45a16c3a1848033d181a55233c6a3da07a5c68f128e54e4140d1bcf526243cb.png" sizes="60x60" />
+<link rel="apple-touch-icon" type="image/png" href="/assets/apple/apple-touch-icon-72x72-112e2e6cff31ca4dac22a72071d69d0442c6f22a47586b44cb69a04d2b9ad10e.png" sizes="72x72" />
+<link rel="apple-touch-icon" type="image/png" href="/assets/apple/apple-touch-icon-76x76-edd1d0fac603c0ce162322cdd3a94b9bcfa7ec81461bb0f341991629c65f5fbf.png" sizes="76x76" />
+<link rel="apple-touch-icon" type="image/png" href="/assets/apple/apple-touch-icon-114x114-88fea70a7caa6b29c9e33c874d929c34b1085e9882dd723f21a315ccb80e5348.png" sizes="114x114" />
+<link rel="apple-touch-icon" type="image/png" href="/assets/apple/apple-touch-icon-120x120-3d6a87bcbe07ec5df4dc7f2ec0b3c258781bb6e83cfca8d0888836c76673741c.png" sizes="120x120" />
+<link rel="apple-touch-icon" type="image/png" href="/assets/apple/apple-touch-icon-144x144-ec7ba37e468f45093b0138ace6eb9a040674946adcce8c6a5488e37e84f53e3c.png" sizes="144x144" />
+<link rel="apple-touch-icon" type="image/png" href="/assets/apple/apple-touch-icon-152x152-ce06d52ced83956f0d91f1df9d03e7afbc7c053fe8830bb8b2d4a1278b7038f9.png" sizes="152x152" />
+<link rel="apple-touch-icon" type="image/png" href="/assets/apple/apple-touch-icon-180x180-1f063f520cca523c1fe194a99fcba4011133561ef502e6363ad80887741d9186.png" sizes="180x180" />
+
+<link rel="apple-icon" type="image/png" href="/assets/apple/apple-icon-57x57-b6fa840a76832c5526aee6008e2acbfef6b536d3c681cf6427dcbac470e7b57b.png" sizes="57x57" />
+<link rel="apple-icon" type="image/png" href="/assets/apple/apple-icon-60x60-a45a16c3a1848033d181a55233c6a3da07a5c68f128e54e4140d1bcf526243cb.png" sizes="60x60" />
+<link rel="apple-icon" type="image/png" href="/assets/apple/apple-icon-72x72-112e2e6cff31ca4dac22a72071d69d0442c6f22a47586b44cb69a04d2b9ad10e.png" sizes="72x72" />
+<link rel="apple-icon" type="image/png" href="/assets/apple/apple-icon-76x76-edd1d0fac603c0ce162322cdd3a94b9bcfa7ec81461bb0f341991629c65f5fbf.png" sizes="76x76" />
+<link rel="apple-icon" type="image/png" href="/assets/apple/apple-icon-114x114-88fea70a7caa6b29c9e33c874d929c34b1085e9882dd723f21a315ccb80e5348.png" sizes="114x114" />
+<link rel="apple-icon" type="image/png" href="/assets/apple/apple-icon-120x120-3d6a87bcbe07ec5df4dc7f2ec0b3c258781bb6e83cfca8d0888836c76673741c.png" sizes="120x120" />
+<link rel="apple-icon" type="image/png" href="/assets/apple/apple-icon-144x144-ec7ba37e468f45093b0138ace6eb9a040674946adcce8c6a5488e37e84f53e3c.png" sizes="144x144" />
+<link rel="apple-icon" type="image/png" href="/assets/apple/apple-icon-152x152-ce06d52ced83956f0d91f1df9d03e7afbc7c053fe8830bb8b2d4a1278b7038f9.png" sizes="152x152" />
+<link rel="apple-icon" type="image/png" href="/assets/apple/apple-icon-180x180-1f063f520cca523c1fe194a99fcba4011133561ef502e6363ad80887741d9186.png" sizes="180x180" />
+
+  <meta name="msapplication-config" content="browserconfig.xml" />
+
+  <link href="/manifest.json" rel="manifest" />
+  <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon-8b5708538dbb094eb2782a9cab48f0a0f388797ba31c84987e39b69a791f920f.ico" />
+
+  
+
+</head>
+  <body>
+    <div class="prices-snapshot-container">
+  <div class="row show-for-medium-up">
+    <div class="small-12">
+      <ul class="prices-snapshot-list left">
+          <li>
+            <span class="index">S&amp;P/NZX50</span>
+            10,779
+              <span class="up"><i class="fa fa-arrow-up"></i>2.92%</span>
+          </li>
+          <li>
+            <span class="index">S&amp;P/NZX20</span>
+            7,312
+              <span class="up"><i class="fa fa-arrow-up"></i>3.02%</span>
+          </li>
+          <li>
+            <span class="index">S&amp;P/NZX10</span>
+            11,366
+              <span class="up"><i class="fa fa-arrow-up"></i>2.95%</span>
+          </li>
+      </ul>
+      <div id="snapshot-clock"></div>
+    </div>
+  </div>
+</div>
+
+
+    <header>
+      <div class="row meta-functions large-collapse">
+        <div class="small-12 medium-5 large-3 medium-offset-4 large-offset-5 columns"><div class="search-wrapper" id="SearchContainer">&nbsp;</div></div>
+        <div class="large-2 show-for-large-up columns zoom-list-wrapper">
+          <ul class="zoom-list">
+            <li><a href="#" class="selected">A</a></li>
+            <li><a href="#">A</a></li>
+            <li><a href="#">A</a></li>
+          </ul>
+        </div>
+          <div class="show-for-large-up large-2 columns top-bar-section login-section">
+  <ul>
+    <li class="has-dropdown not-click" >
+      <a class="login-button" href="#">Login</a>
+      <ul class="dropdown" style="padding: 0">
+        <li><a href="/login">MyNZX</a></li>
+        <li><a href="https://compliance.nzx.com" target="_blank">Participant Portal</a></li>
+        <li><a href="https://map.nzx.com/login/index.php" target="_blank">MAP</a></li>
+        <li><a href="https://companyresearch.nzx.com" target="_blank">Company Research</a></li>
+        <li><a href="https://www.i-search.nzx.com" target="_blank">i-Search</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
+
+      </div>
+      <div class="row">
+        <div class="small-12 columns">
+          <h1 class="logo"><a href="/"><span>NZX</span></a></h1>
+        </div>
+      </div>
+      <div class="row small-collapse">
+        <div class="small-12 column">
+          <nav class="top-bar" data-topbar role="navigation">
+            <ul class="title-area">
+              <li class="name">
+              </li>
+              <li><a class="home-button hide-for-large-up" href="/">Home<i class="fa fa-home"></i></a></li>
+              <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+            </ul>
+            <section class="top-bar-section">
+  <ul class="right">
+        <li class="has-dropdown" >
+          <a href="#">Markets</a>
+          <ul class="dropdown">
+              <li><a href="/markets/NZSX">
+                NZX Main Board (NZSX)
+</a></li>              <li><a href="/markets/NZDX">
+                NZX Debt Market (NZDX)
+</a></li>              <li><a href="/markets/nzx-dairy-derivatives">
+                NZX Dairy Derivatives
+</a></li>              <li><a href="/markets/NZCX">
+                NZX Equity Derivatives (NZCX)
+</a></li>              <li><a href="/markets/NZZX">
+                Fonterra Shareholders Market (FSM)
+</a></li>              <li><a href="/markets/indices">
+                S&amp;P/NZX Indices
+</a></li>          </ul>
+        </li>
+        <li class="has-dropdown" >
+          <a href="#">Regulation</a>
+          <ul class="dropdown">
+              <li><a href="/regulation/nzx-regulation">
+                NZX Regulation
+</a></li>              <li><a href="/regulation/nzx-rules-guidance">
+                NZX Rules &amp; Guidance
+</a></li>              <li><a href="/regulation/nzmd-tribunal-regulation">
+                NZ Markets Disciplinary Tribunal
+</a></li>              <li><a href="/regulation/complaints">
+                Complaints
+</a></li>              <li><a href="/regulation/faqs">
+                FAQS
+</a></li>              <li><a href="/regulation/contact-us">
+                Contact Us
+</a></li>          </ul>
+        </li>
+        <li class="has-dropdown" >
+          <a href="#">Products</a>
+          <ul class="dropdown">
+              <li><a href="/products/products-overview">
+                Products Overview
+</a></li>              <li><a href="/products/nzx-exchange-traded-funds">
+                Exchange Traded Funds (ETFs)
+</a></li>              <li><a href="/products/nzx-data">
+                NZX Vendors &amp; Distributors
+</a></li>              <li><a href="/products/nzx-info">
+                NZX Data Products
+</a></li>              <li><a href="/products/nzx-dairy-data">
+                NZX Dairy Data
+</a></li>              <li><a href="/products/virtual-trading">
+                NZX virtualTrading
+</a></li>          </ul>
+        </li>
+        <li class="has-dropdown" >
+          <a href="#">Services</a>
+          <ul class="dropdown">
+              <li><a href="/services/listing-on-nzx-markets">
+                Listing on NZX
+</a></li>              <li><a href="/services/market-participants">
+                NZX Participants
+</a></li>              <li><a href="/services/energy-markets">
+                NZX Energy
+</a></li>              <li><a href="/services/nzx-clearing">
+                NZX Clearing
+</a></li>              <li><a href="/services/nzx-trading">
+                NZX Trading
+</a></li>          </ul>
+        </li>
+        <li class="has-dropdown" >
+          <a href="#">Investing</a>
+          <ul class="dropdown">
+              <li><a href="/investing/investing-overview">
+                Investing Overview
+</a></li>              <li><a href="/investing/glossary">
+                Glossary
+</a></li>              <li><a href="/investing/education_resource_centre">
+                Education Resource Centre 
+</a></li>              <li><a href="/investing/nzx-trading-hours">
+                NZX Trading Hours
+</a></li>              <li><a href="/investing/find-a-participant">
+                Find a Participant
+</a></li>          </ul>
+        </li>
+        <li class="has-dropdown" >
+          <a href="#">About NZX</a>
+          <ul class="dropdown">
+              <li><a href="/about-nzx/organization-structure">
+                Who We Are
+</a></li>              <li><a href="/about-nzx/investor-centre">
+                Investor Centre
+</a></li>              <li><a href="/about-nzx/contact">
+                Contact
+</a></li>          </ul>
+        </li>
+        <li class="hide-for-large-up has-dropdown not-click" >
+      <a href="#">Login</a>
+      <ul class="dropdown" style="padding: 0">
+        <li><a href="/login">MyNZX</a></li>
+        <li><a href="https://compliance.nzx.com" target="_blank">Participant Portal</a></li>
+        <li><a href="https://map.nzx.com/login/index.php" target="_blank">MAP</a></li>
+        <li><a href="https://companyresearch.nzx.com" target="_blank">Company Research</a></li>
+        <li><a href="https://www.i-search.nzx.com" target="_blank">i-Search</a></li>
+      </ul>
+    </li>
+
+  </ul>
+</section>
+
+          </nav>
+        </div>
+      </div>
+    </header>
+    
+    <section role="main" class="scroll-container instrument-page">
+  <div class="row show-for-medium-up">
+    <div class="small-12 columns">
+      <ul class="breadcrumbs"><li><a href="/">Home</a></li><li class="unavailable">Markets</li><li class="current">AIR</li></ul>
+    </div>
+  </div>
+  <div class="row">
+    <aside class="small-12 medium-3 columns">
+  <ul class="side-nav">
+    <li class="active"><a href="/instruments/AIR">
+        Overview<i class="fa fa-chevron-right right"></i>
+</a></li>    <li><a href="/instruments/AIR/dividends">
+        Dividends<i class="fa fa-chevron-right right"></i>
+</a></li>    <li><a href="/companies/AIR/announcements">
+        Company Announcements<i class="fa fa-chevron-right right"></i>
+</a></li>  </ul>
+    <div class="panel show-for-medium-up">
+    <h3 class="module-header">Related instruments</h3>
+    <ul class="links-list related-instruments">
+        <li>
+          <a href="/instruments/AIR020">
+            <strong class="">
+              AIR020
+            </strong>
+</a>          <span class="security-name">
+            AIR 28/10/2022 4.25% - Air New Zealand Limited
+          </span>
+        </li>
+    </ul>
+  </div>
+
+</aside>
+
+    <div class="small-12 medium-9 columns content">
+      <section class="instrument-snapshot ">
+  <div class="row">
+    <div class="small-12 medium-5 columns">
+      <h2>
+          AIR
+        
+      </h2>
+      <h1>
+          $1.310
+      </h1>
+        <span class="down"><i class="fa fa-arrow-down"></i>-$0.005 / -0.38%</span>
+      <small>52 Week Change:
+          <span class="down"><i class="fa fa-arrow-down"></i>-$1.470 / -53.08%</span>
+      </small>
+
+    </div>
+    <div class="small-12 medium-7 columns">
+      <table class="no-style">
+        <tbody>
+          <tr>
+            <td><strong>Instrument Name</strong></td>
+            <td>
+                Air New Zealand Limited (NS) Ordinary Shares
+            </td>
+          <tr>
+          <tr>
+            <td><strong>Issued By</strong></td>
+            <td>
+                <a href="/companies/AIR">Air New Zealand Limited (NS)</a>
+            </td>
+          <tr>
+          <tr>
+            <td><strong>ISIN</strong></td>
+            <td>NZAIRE0001S2</td>
+          <tr>
+          <tr>
+            <td><strong>Type</strong></td>
+            <td>Ordinary Shares</td>
+          <tr>
+        </tbody>
+      </table>
+    </div>
+
+  </div>
+</section>
+
+      <div class="row">
+        <div class="small-12 medium-12 large-4 columns">
+  <div class="panel callout instrument-info ">
+    <h4>Activity</h4>
+    <table class="no-style">
+        <tr>
+          <td><strong>Trading status</strong></td>
+          <td class="text-right">Trading</td>
+        </tr>
+        <tr>
+          <td><strong>Trades</strong></td>
+          <td class="text-right">13284</td>
+        </tr>
+        <tr>
+          <td><strong>Value</strong></td>
+          <td class="text-right">$24,666,966.99</td>
+        </tr>
+        <tr>
+          <td><strong>Volume</strong></td>
+          <td class="text-right">17,252,975</td>
+        </tr>
+      <tr>
+        <td><strong>Capitalisation (000s)</strong></td>
+        <td class="text-right">
+          $1,470,881
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
+
+        <div class="small-12 medium-6 large-4 columns">
+  <div class="panel callout instrument-info ">
+    <h4>Performance</h4>
+    <table class="no-style">
+        <tr>
+  <td><strong>Open</strong></td>
+  <td class="text-right">$1.315</td>
+</tr>
+<tr>
+  <td><strong>High</strong></td>
+  <td class="text-right">$1.610</td>
+</tr>
+<tr>
+  <td><strong>Low</strong></td>
+  <td class="text-right">$1.270</td>
+</tr>
+<tr>
+  <td><strong>High Bid</strong></td>
+  <td class="text-right">$1.300</td>
+</tr>
+<tr>
+  <td><strong>Low Offer</strong></td>
+  <td class="text-right">$1.330</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+        <div class="small-12 medium-6 large-4 columns">
+  <div class="panel callout instrument-info ">
+    <h4>Fundamental</h4>
+    <table class="no-style">
+        <tr>
+  <td><strong>P/E</strong></td>
+  <td class="text-right">6.750</td>
+</tr>
+<tr>
+  <td><strong>EPS</strong></td>
+  <td class="text-right">$0.195</td>
+</tr>
+<tr>
+  <td><strong>NTA</strong></td>
+  <td class="text-right">$1.630</td>
+</tr>
+<tr>
+  <td><strong>Gross Div Yield</strong></td>
+  <td class="text-right">11.618%</td>
+</tr>
+<tr>
+    <td><strong>Securities Issued</strong></td>
+  <td class="text-right">1,122,810,044</td>
+</tr>
+
+    </table>
+  </div>
+</div>
+
+      </div>
+        <div class="panel blank ">
+          <span class="smaller italic">Last updated: 17/4/2020,  5:30 pm</span>
+        </div>
+        <section class="market-data">
+          <div class="row">
+            <div class="small-12 columns">
+              <div class='small-12 columns'>
+    <h3> AIR Price History</h3>
+  <button class="btn pull-right load-interactive ">Load Interactive Charts</button>
+  <div class="small-12 columns" id='static-chart'></div>
+</div>
+
+
+                <div class="outer-chart-container simple-chart spinner" data-statistics-code="AIR" data-statistics-value="price" data-include-subchart="true">
+    <div id="simple_chart_AIR" class="ejs-chart-container">
+      <form class="chart-controls">
+        <ul>
+          <li class='action comparison'>
+  <select name='time-frame' class='control time-frame'>
+      <optgroup label='Intraday' class='intraday'>
+        <option value='01-intraday'   >1 day</option>
+        <option value='02-intraday'   >2 days</option>
+        <option value='03-intraday'   >3 days</option>
+        <option value='04-intraday'   >4 days</option>
+        <option value='05-intraday'   >5 days</option>
+      </optgroup>
+    <optgroup label='Daily' class='interday'>
+      <option value='30-tradingdays'>30 days</option>
+      <option value='60-tradingdays'>60 days</option>
+      <option value='90-tradingdays'>90 days</option>
+      <option value='120-tradingdays'>120 days</option>
+      <option value='YTD'>YTD</option>
+      <option value='01-year' selected>1 year</option>
+      <option value='02-year'>2 years</option>
+    </optgroup>
+  </select>
+</li>
+
+
+
+          <li class="action no-comparison">
+            <select name="chart-type" class="control chart-type interday">
+              <option value="line">Line</option>
+              <option value="ohlc">OHLC</option>
+              <option value="candlestick">Candlestick</option>
+            </select>
+            <select name="chart-type" class="control chart-type intraday" style="display:none">
+              <option value="line">Line</option>
+            </select>
+          </li>
+
+          <li class='action no-comparison'>
+  <select name='overlay-selection' class='overlay'>
+    <option value=''>No Overlay</option>
+    <option value='price_moving_average_50' >50 Day Moving Average  </option>
+    <option value='price_moving_average_200'>200 Day Moving Average </option>
+    <option value='price_bollinger'         >Bollinger Bands        </option>
+  </select>
+</li>
+
+          <li class='action no-comparison'>
+  <select name='subchart-selection' class='subchart control'>
+    <option value=''>No Subchart</option>
+    <option value='VolumeSubChart' selected>Volume</option>
+    <option value='VolumePlusSubChart'>Volume Plus</option>
+    <option value='RsiSubChart'>Relative Strength Index (RSI)</option>
+  </select>
+</li>
+
+
+          <li class="compare">
+            <input type="text" name="compare_AIR" class="compare", value="" placeholder="Compare" >
+          </li>
+        </ul>
+      </form>
+      <div class="detail-chart" id="detail_chart_AIR"></div>
+    </div>
+  </div>
+
+            </div>
+          </div>
+        </section>
+      <section class="company-announcements">
+        <a target="_blank" href="/companies/AIR/announcements">
+          <strong> View Air New Zealand Limited (NS) Announcements <i class="fa fa-chevron-right"></i></strong>
+</a>      </section>
+    </div>
+  </div>
+</section>
+
+    <footer>
+      <div class="row show-for-large-up footer-content">
+          <div class="small-6 medium-2 columns">
+            <ul class="no-bullet">
+              <li>
+                <h5 class="uppercase">
+                  Markets
+                </h5>
+              </li>
+                <li><a href="/markets/NZSX">
+                  NZX Main Board (NZSX)
+</a></li>                <li><a href="/markets/NZDX">
+                  NZX Debt Market (NZDX)
+</a></li>                <li><a href="/markets/nzx-dairy-derivatives">
+                  NZX Dairy Derivatives
+</a></li>                <li><a href="/markets/NZCX">
+                  NZX Equity Derivatives (NZCX)
+</a></li>                <li><a href="/markets/NZZX">
+                  Fonterra Shareholders Market (FSM)
+</a></li>                <li><a href="/markets/indices">
+                  S&amp;P/NZX Indices
+</a></li>            </ul>
+          </div>
+          <div class="small-6 medium-2 columns">
+            <ul class="no-bullet">
+              <li>
+                <h5 class="uppercase">
+                  Regulation
+                </h5>
+              </li>
+                <li><a href="/regulation/nzx-regulation">
+                  NZX Regulation
+</a></li>                <li><a href="/regulation/nzx-rules-guidance">
+                  NZX Rules &amp; Guidance
+</a></li>                <li><a href="/regulation/nzmd-tribunal-regulation">
+                  NZ Markets Disciplinary Tribunal
+</a></li>                <li><a href="/regulation/complaints">
+                  Complaints
+</a></li>                <li><a href="/regulation/faqs">
+                  FAQS
+</a></li>                <li><a href="/regulation/contact-us">
+                  Contact Us
+</a></li>            </ul>
+          </div>
+          <div class="small-6 medium-2 columns">
+            <ul class="no-bullet">
+              <li>
+                <h5 class="uppercase">
+                  Products
+                </h5>
+              </li>
+                <li><a href="/products/products-overview">
+                  Products Overview
+</a></li>                <li><a href="/products/nzx-exchange-traded-funds">
+                  Exchange Traded Funds (ETFs)
+</a></li>                <li><a href="/products/nzx-data">
+                  NZX Vendors &amp; Distributors
+</a></li>                <li><a href="/products/nzx-info">
+                  NZX Data Products
+</a></li>                <li><a href="/products/nzx-dairy-data">
+                  NZX Dairy Data
+</a></li>                <li><a href="/products/virtual-trading">
+                  NZX virtualTrading
+</a></li>            </ul>
+          </div>
+          <div class="small-6 medium-2 columns">
+            <ul class="no-bullet">
+              <li>
+                <h5 class="uppercase">
+                  Services
+                </h5>
+              </li>
+                <li><a href="/services/listing-on-nzx-markets">
+                  Listing on NZX
+</a></li>                <li><a href="/services/market-participants">
+                  NZX Participants
+</a></li>                <li><a href="/services/energy-markets">
+                  NZX Energy
+</a></li>                <li><a href="/services/nzx-clearing">
+                  NZX Clearing
+</a></li>                <li><a href="/services/nzx-trading">
+                  NZX Trading
+</a></li>            </ul>
+          </div>
+          <div class="small-6 medium-2 columns">
+            <ul class="no-bullet">
+              <li>
+                <h5 class="uppercase">
+                  Investing
+                </h5>
+              </li>
+                <li><a href="/investing/investing-overview">
+                  Investing Overview
+</a></li>                <li><a href="/investing/glossary">
+                  Glossary
+</a></li>                <li><a href="/investing/education_resource_centre">
+                  Education Resource Centre 
+</a></li>                <li><a href="/investing/nzx-trading-hours">
+                  NZX Trading Hours
+</a></li>                <li><a href="/investing/find-a-participant">
+                  Find a Participant
+</a></li>            </ul>
+          </div>
+          <div class="small-6 medium-2 columns">
+            <ul class="no-bullet">
+              <li>
+                <h5 class="uppercase">
+                  About NZX
+                </h5>
+              </li>
+                <li><a href="/about-nzx/organization-structure">
+                  Who We Are
+</a></li>                <li><a href="/about-nzx/investor-centre">
+                  Investor Centre
+</a></li>                <li><a href="/about-nzx/contact">
+                  Contact
+</a></li>            </ul>
+          </div>
+      </div>
+      <section class="footer-meta">
+        <div class="row">
+          <div class="small-12 medium-8 columns centered-on-mobile">
+            <span class="left meta-info">© Copyright 2019 NZX Limited, Market data delayed by 20 minutes</span>
+<ul class="inline-list left meta-links">
+  <li><a href="/meta-pages/terms-of-use">Website Terms of Use</a></li>
+  <li><a href="/meta-pages/privacy-policy">Privacy Policy</a></li>
+  <li><a href="/meta-pages/advertising">Advertising</a></li>
+</ul>
+          </div>
+          <div class="small-12 medium-4 columns centered-on-mobile">
+            <ul class="inline-list right ">
+              <li><a href="https://www.linkedin.com/company/75896" target="_blank"><i class="fa fa-linkedin-square"></i></a></li>
+              <li><a href="https://www.facebook.com/NZXLimited/" target="_blank"><i class="fa fa-facebook-square"></i></a></li>
+              <li><a href="https://twitter.com/NZXGroup" target="_blank"><i class="fa fa-twitter-square"></i></a></li>
+              <li><a href="https://www.youtube.com/channel/UCZ6mjQForwG_IrR64NZAkOw" target="_blank"><i class="fa fa-youtube-square"></i></a></li>
+            </ul>
+          </div>
+        </div>
+      </section>
+    </footer>
+    <div class="js-div">
+      <script src="/assets/application-d91b32e344c0909dc92953617f287239caaa3b88859b7ec3afdb9625a76f697a.js"></script>
+
+      <script src="/assets/modernizr.custom.91421-aef0f14df7c4a3e5d26530c1f5ad650a44ace38665737bf2d1901841659d355c.js"></script>
+      <!-- <script type="text/javascript" src="https://js-cdn.dynatrace.com/jstag/1547c029d8c/yvp17042/1e174f7136ace814_bs.js" crossorigin="anonymous"></script> -->
+      <script type="text/javascript">
+        $(window).scroll(function(){
+          headerCollapse();
+        });
+        $(document).ready(function(){
+          zooming();
+          initializeFoundation();
+          smoothScroll();
+          //checkAdPresence();
+          addDynamicPadding();
+          trackTabsClick();
+          trackSearchResultClick();
+          trackQuotesChartClick();
+        });
+      // $(function() {
+      //   Origami.fastclick.FastClick.attach(document.body);
+      // });
+      </script>
+      <script src="/assets/public-bundle-6602281cd3bc7beaecda8b4cb08adb46bd8a480bfc82036c1d9f4acb669d0c48.js"></script>
+      <script src="/assets/highcharts-bundle-a70ed312cd1ef73b38ec6a8fd91c83090cdd3d18624e82a73a6507a21be194b0.js"></script>
+      <script type="text/javascript">
+        
+  $(document).ready(function(){
+    $('.load-interactive').click(function(){
+      $('.load-interactive').hide();
+      $('#static-chart').hide();
+      $('.simple-chart').show();
+    });
+  });
+
+  ReactDOM.render(
+    React.createElement(NzxReact.components.MinimalChart, {
+      minimal:true,
+      data: [["2020-03-17",1.540000153],["2020-03-18",1.540000153],["2020-03-19",1.540000153],["2020-03-20",0.990001528],["2020-03-23",0.79999618],["2020-03-24",0.844995339],["2020-03-25",0.869997097],["2020-03-26",0.890004508],["2020-03-27",0.900003209],["2020-03-30",0.900003209],["2020-03-31",0.849999694],["2020-04-01",0.879995798],["2020-04-02",0.879995798],["2020-04-03",0.859998396],["2020-04-06",0.840000993],["2020-04-07",0.849999694],["2020-04-08",0.834996638],["2020-04-09",0.900003209],["2020-04-14",1.039995034],["2020-04-15",1.179996868],["2020-04-16",1.315004355],["2020-04-17",1.31]],
+      seriesName: "AIR",
+      greenBond:false
+    } ),
+    document.getElementById('static-chart')
+  );
+  ReactDOM.render(
+    React.createElement(NzxReact.components.ClockContainer),
+    document.getElementById('snapshot-clock')
+  );
+
+        
+        ReactDOM.render(
+          React.createElement(NzxReact.components.SearchContainer ),
+          document.getElementById('SearchContainer')
+        );
+      </script>
+    </div>
+  </body>
+</html>
